@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/harusato",
  "yomi": "むらたはるさとかしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "文化8年（1811）6月跋",
+  "author": "村田春郷（1739〜1768）",
+  "desc": "村田春海の兄で、真淵に学んだ春郷の家集。序は、古言を自分のものとして使いこなした歌風をたたえる。"
+ },
  "editions": [
   {
    "pid": "993386",
